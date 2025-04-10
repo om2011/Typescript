@@ -1,4 +1,6 @@
 import { invoice } from './classes/invoice.js';
+
+
 interface IsPerson{
   name:string
   age:number
