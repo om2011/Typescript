@@ -1,0 +1,10 @@
+var arr = ['om', 22, true];
+arr[0] = false;
+arr[1] = 'samrit';
+arr = [30, false, 'prashant'];
+var tup = ['om', 22, true];
+// tup[0] = false;
+tup[0] = 'samrit';
+var student;
+//student = [23564, 'om'];
+student = ['om', 23564];
