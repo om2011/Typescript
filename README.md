@@ -1,6 +1,6 @@
 ## TypeScript Course Code
 
-The code is separated according to the course sections.
+The code is separated according to the course sections
 
 - Each section folder consists of different folders named after the concept taught.
 - Each concept folder contains the relevant code for that part.
